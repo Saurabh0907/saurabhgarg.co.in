@@ -185,7 +185,9 @@ background-attachment: fixed;
 	float:right;
 
 }
-
+.text-sg
+{color:#999;
+}
 
 a{
 text-decoration: none;

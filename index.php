@@ -9,6 +9,12 @@ saurabhgarg.co.in
     <meta charset="utf-8">
     <meta name="google-site-verification" content="pzK0Nu8y_T__KrZUeiLf5W3J0YEUN9BLCUHEU2eQJQs" />
     <title>Saurabh Garg</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- favicon -->
+    <link rel="icon" 
+      type="image/ico" 
+      href="img/sg.png">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
     <link rel="stylesheet" href="css/main.css">
      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -19,11 +25,11 @@ saurabhgarg.co.in
 	
 	<div>
 		<div class="div1">
-		<img id="image" src="img/im.jpg"/>
+		<img id="image" src="img/img2.jpg"/>
 		<div id="name_head">
 			
 			<div class="main_div div_div">
-				<h1 class="name_09 anim fade" style="font-size: 30px;">Hello, I'm Saurabh Garg</h1>
+				<h1 class="name_09 anim fade" style="font-size: 30px;">Hello, I'm Saurabh<span class="text-sg">Garg</span></h1>
 				<h2 class="name_09 anim fade" style="font-size: 25px;">Fourth Year Undergraduate, JIIT Noida</h2>
 				<br>
 				<!--<h3 class="name_09" style="font-size: 20px;">I'm looking for a place to do what I do well, and maybe you have such a place.</h3>-->
