@@ -1,0 +1,394 @@
+/* COPYRIGHT INFORMATION
+All Rights Reserved
+saurabhgarg.co.in
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Jura:400,500);
+@import url(http://fonts.googleapis.com/css?family=Metrophobic);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+html,body,div,span,h1,h2,h3,h4,h5,h6,p{
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
+
+body{
+	margin: 0 auto;
+	width: 100%;
+	padding:0;
+	overflow-x: hidden;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+
+
+.about h2, #res_det h2, #name_head h2{
+	padding-bottom:40px;
+}
+
+.about{
+	margin-top:-12%;
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+
+.about p, #name_head p{
+max-width: 6400px;
+font-size: 18px;
+color: #2d1711;
+line-height: 26px;
+margin: 0 auto;
+padding-bottom: 24px;
+font-family: 'Jura',sans-serif;
+text-align: center;
+
+	-webkit-animation-delay: 1.2s;
+	-webkit-animation-duration: .6s;
+	-moz-animation-delay: 1.2s;
+	-moz-animation-duration: .6s;
+	-o-animation-delay: 1.2s;
+	-o-animation-duration: .6s;
+	animation-delay: 1.2s;
+	animation-duration: .6s;
+}
+
+.about {
+    padding: 30px 0px 18px 0px;
+  	-webkit-animation-delay: 0.4s;
+	-moz-animation-delay: 0.4s;
+	-o-animation-delay: 0.4s;
+	animation-delay: 0.4s;
+}
+
+
+#name_head {
+padding-top: 8%;
+}
+
+
+#name_head {
+    margin-top: 0px;
+}
+
+
+.name_09{
+	-webkit-animation-delay: .6s;
+	-webkit-animation-duration: .6s;
+	-moz-animation-delay: .6s;
+	-moz-animation-duration: .6s;
+	-o-animation-delay: .6s;
+	-o-animation-duration: .6s;
+	animation-delay: .6s;
+	animation-duration: .6s;
+	
+    line-height: 40px;
+    text-align: center;
+    font-family: 'Consolas';
+    display: block;
+}
+
+
+
+a.about-button{
+color: rgb(180, 186, 194);
+font-size: 15px;
+font-family:'Segoe';
+text-decoration: none;
+text-transform: uppercase;
+border-radius: 20px;
+padding: 11px 28px 11px 28px;
+text-align: center;
+margin: 0 auto;
+width: 124px;
+display: block;
+margin-top: 41px;
+border: 1px solid #9bd0d5;
+}
+
+
+
+.name_091{
+	-webkit-animation-delay: .6s;
+	-webkit-animation-duration: .6s;
+	-moz-animation-delay: .6s;
+	-moz-animation-duration: .6s;
+	-o-animation-delay: .6s;
+	-o-animation-duration: .6s;
+	animation-delay: .6s;
+	animation-duration: .6s;
+	
+    line-height: 40px;
+    font-family: 'Consolas';
+    display: block;
+	padding-bottom:2%;
+	margin-left:2.5%;
+}
+
+.social{
+padding-top: 1%;
+margin-left:43%;
+}
+
+
+.main_div{ 
+	margin: 0 auto;
+	max-width: 1024px;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+.div_div:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: ".";
+    clear: both;
+    height: 0;
+    }
+
+.right{float:right;}
+.none{float:none;}
+.left{float:left;}
+
+html{font-size:;}
+
+
+
+
+.div1{
+background-position: center 95%;
+background-repeat: none;
+background-size: cover;
+padding-bottom: 180px;
+background-attachment: fixed;
+}
+
+
+
+.header{
+	width: 100%;
+	padding-top:35px;
+}
+
+#image{
+	height: 80px;
+	width: 120px;
+	border-radius: 50px;
+	border: 20px solid rgba(255,255,255,1);
+	float:right;
+
+}
+
+
+a{
+text-decoration: none;
+}
+	
+.hr{
+	border-bottom: 1px solid #E3E3E3;
+	margin:0 auto;
+	text-align: center;
+}
+
+
+#sg_res {
+color: rgb(180, 186, 194);
+    text-decoration: none;
+	font: Consolas;
+    display:inline-block; padding: 2px 8px;
+	border-radius: 10px;
+	text-align: center;
+	width: 120px;
+	margin-top: 35px;
+	border: 1px solid #abd0d5;
+}
+#sg_res:hover { color: #000; }
+
+
+
+
+/* RESUME */
+
+
+#res_det{
+	padding: 10px 0 110px 0;
+	-webkit-animation-delay: .8s;
+	-moz-animation-delay: .8s;
+	-o-animation-delay: .8s;
+	animation-delay: .8s;
+}
+
+.res_box{
+margin: 5px auto 0px auto;
+max-width: 800px;
+}
+
+#sg_res1 {
+	margin-left:-5%;
+    text-decoration: none;
+	font-family: 'Consolas';
+    display:inline-block; padding: 2px 8px;
+	text-align: center;
+	width: 120px;
+	margin-top: 35px;
+	font-size:40px;
+}
+
+
+.topic h3{
+font-family: Verdana;
+font-weight: 200;
+text-transform: uppercase;
+font-size: 18px;
+color: #000;
+padding-bottom: 2px;
+margin-left:-2%;
+}
+
+.topic h4{
+font-family: Verdana;
+font-weight: 100;
+text-transform: uppercase;
+font-size: 14px;
+color: #000;
+padding-bottom: 2px;
+margin-left:-1%;
+}
+
+.topic h5{
+font-family: Verdana;
+font-weight: 50;
+text-transform: uppercase;
+font-size: 12px;
+color: #000;
+line-height: 22px;
+padding-bottom: 10px;
+}
+
+#desc
+{
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 16px;
+color: #383535;
+}
+
+#email img {
+    position: absolute;
+    left: 0px;
+}
+
+#emaili
+{
+color: #383535;
+display:inline-block;
+font-size: 15px;
+font-family:'Segoe';
+text-decoration: none;
+text-transform: uppercase;
+}
+
+#cntct
+{
+margin-left:10%;
+margin-right:10%;
+}
+
+/* Animation */
+
+.anim {
+	-webkit-animation-fill-mode: both;
+	-moz-animation-fill-mode: both;
+	-ms-animation-fill-mode: both;
+	-o-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-duration: .8s;
+	-moz-animation-duration: 1s;
+	-ms-animation-duration: 1s;
+	-o-animation-duration: 1s;
+	animation-duration: 1s;
+}
+
+@-webkit-keyframes fade {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(20px);
+	}
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+	}
+}
+
+@-moz-keyframes fade {
+	0% {
+		opacity: 0;
+		-moz-transform: translateY(20px);
+	}
+	100% {
+		opacity: 1;
+		-moz-transform: translateY(0);
+	}
+}
+
+@-o-keyframes fade {
+	0% {
+		opacity: 0;
+		-o-transform: translateY(20px);
+	}
+	100% {
+		opacity: 1;
+		-o-transform: translateY(0);
+	}
+}
+
+@keyframes fade {
+	0% {
+		opacity: 0;
+		transform: translateY(0px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(-20);
+	}
+}
+.fade {
+	-webkit-animation-name: fade;
+	-moz-animation-name: fade;
+	-o-animation-name: fade;
+	animation-name: fade;
+}
+
+@-webkit-keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+@-moz-keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+@-o-keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+@keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+.fadeIn {
+	-webkit-animation-name: fadeIn;
+	-moz-animation-name: fadeIn;
+	-o-animation-name: fadeIn;
+	animation-name: fadeIn;
+	
+}
