@@ -62,6 +62,18 @@ saurabhgarg.co.in
 				<div class="res_box">
 						<p id="sg_res1">Projects</p>
 						<div class="topic"><br>
+							<a href="http://codevilla.co.in" onclick="window.open(this.href); return false;"><h3>Collaborative Playfield in Distributed Environment</h3></a>
+							<h4>October 2014 - December 2014</h4>
+							<p id="desc">Codevilla.co.in, A website which not only enables you to edit your files from already existing services like Dropbox, but on above of that gives you the potential to collaborate as well. Codevilla has syntax-highlighting feature and also gives you the ability to compile your code.</p>
+						</div>
+						
+						<div class="topic"><br>
+							<a href="https://github.com/Saurabh0907/Cocomo-Model-Using-Genetic-Algorithm" onclick="window.open(this.href); return false;"><h3>Cocomo Model Using Genetic Algorithms</h3></a>
+							<h4>November 2014</h4>
+							<p id="desc">Optimisation of Cocomo model coefficients using genetic algorithms. Successful up to 20 generations.</p>
+						</div>
+						
+						<div class="topic"><br>
 							<h3>DNS Parser</h3>
 							<h4>May 2014 - June 2014</h4>
 							<p id="desc">Converting binary dump to human readable format</p>
@@ -124,7 +136,7 @@ saurabhgarg.co.in
 							<h3>Bachelor of Technology (BTech), Computer Science</h3>
 							<a href="http://www.jiit.ac.in/" onclick="window.open(this.href); return false;"><h4>Jaypee Institute Of Information Technology, Noida</h4></a>
 							<h5>2011 - Present</h5>
-							<p id="desc">Current CGPA - 8.8</p>
+							<p id="desc">Current CGPA - 8.9</p>
 						</div>
 						
 						<div class="topic"><br>
